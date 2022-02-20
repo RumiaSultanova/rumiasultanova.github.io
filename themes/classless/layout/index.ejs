@@ -1,0 +1,26 @@
+<% if (page.title) { %>
+  <article>
+    <%- partial('partials/article-header', {showDate: false}) %>
+    <div><%- page.content %></div>
+  </article>
+<% } %>
+
+<section>
+  <ul>
+    <% page.posts.forEach(post => { %>
+      <li>
+        <article>
+          <%- partial('partials/article-header', {
+            page: {
+              title: post.title,
+              content: post.content,
+              tags: post.tags,
+              date: post.date
+            },
+            showDate: true
+          }) %>
+        </article>
+      </li>
+    <% }) %>
+  </ul>
+</section>

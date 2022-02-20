@@ -1,0 +1,16 @@
+theme: 
+commit_sha: 
+theme_url: /theme.css
+# if nav need
+# nav:
+#   - label: Home
+#     url: /
+#   - label: Archives
+#     url: /archives/
+date_format: 'MMMM Do YYYY'
+show_excerpts: true
+read_more: 'Read more...'
+
+# Configure your own head banner image(url), and will replace the randomly randered image
+head_banner_image: 
+
