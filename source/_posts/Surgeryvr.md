@@ -2,6 +2,7 @@
 title: SurgeryVR
 date: 2020-01-31
 tags: 
+	- Unity
 	- VR
 ---
 
@@ -12,7 +13,7 @@ tags:
 Training <b>VR</b> simulator designed for invasive operations (training mode, exam mode). Particular attention is paid to game mechanics, synchronized with real practitioners used in open operations
 <br>
 <br>
-<b>Tasks:</b> human tissues physics (cut/stretch), lightning (static/dynamic), sound integration (adaptive/conditional), localization, blendshapes, scenario system in inspector, UI, mechanics
+○ <b>Tasks:</b> human tissues physics (cut/stretch), lightning (static/dynamic), sound integration (adaptive/conditional), localization, blendshapes, scenario system in inspector, UI, mechanics
 <br>
 <br>
-<b>Tech stack:</b> Unity, C#, FMOD, Vive (VR - VRTK/OpenVR)
+○ <b>Tech stack:</b> Unity, C#, FMOD, Vive (VR - VRTK/OpenVR)

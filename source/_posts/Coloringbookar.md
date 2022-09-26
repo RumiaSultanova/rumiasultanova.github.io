@@ -2,6 +2,7 @@
 title: TatKitap
 date: 2019-08-31
 tags: 
+	- Unity
 	- AR
 ---
 {% asset_img ColouredBird.jpg %}
@@ -12,7 +13,7 @@ Entertaining <b>AR</b> application that allows you to ‘animate’ the characte
 <a href="https://tatkniga.ru/tatkitap-ar.html">Tatar literature center</a>
 <br>
 <br>
-<b>Tasks:</b> 3D models UV mapping (Autodesk Maya), UI, mechanics
+○ <b>Tasks:</b> 3D models UV mapping (Autodesk Maya), UI, mechanics
 <br>
 <br>
-<b>Tech stack:</b> Unity, C#, Android (AR - Vuforia)
+○ <b>Tech stack:</b> Unity, C#, Android (AR - Vuforia)
