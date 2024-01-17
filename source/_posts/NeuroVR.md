@@ -13,4 +13,5 @@ R&D BCI integration in <b>VR</b> application
 <br>
 ○ <b>Tasks:</b> read brain wave data, mechanics
 <br>
-○ <b>Tech stack:</b> Unity, C#, XR Interaction Toolkit, Brain-computer interface (https://neuroplay.ru/catalog/neuroplay-8cap/)
+○ <b>Tech stack:</b> Unity, C#, XR Interaction Toolkit, Brain-computer interface
+<a href="https://neuroplay.ru/catalog/neuroplay-8cap/">https://neuroplay.ru/catalog/neuroplay-8cap/</a>
